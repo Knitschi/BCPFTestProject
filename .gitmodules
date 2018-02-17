@@ -7,3 +7,9 @@
 [submodule "Sources/BPackage"]
 	path = Sources/BPackage
 	url = ssh://admin@datenbunker:/share/GitRepositories/BPackage.git
+[submodule "Sources/CIBuildConfigurations"]
+	path = Sources/CIBuildConfigurations
+	url = ssh://admin@datenbunker:/share/GitRepositories/CIBuildConfigurations.git
+[submodule "Sources/cotire"]
+	path = Sources/cotire
+	url = git@github.com:Knitschi/cotire.git

@@ -13,10 +13,12 @@ cpfInit()
 
 set( externalPackages
 	cotire
+	CPFCMake
+	CPFBuildscripts
 )
 
 set( globalFiles
-	CMakeProjectFrameworkDocumentation.dox
+	
 )
 
 cpfAddPackages( "${externalPackages}" "${globalFiles}")
