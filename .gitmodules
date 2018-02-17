@@ -12,4 +12,4 @@
 	url = ssh://admin@datenbunker:/share/GitRepositories/CIBuildConfigurations.git
 [submodule "Sources/cotire"]
 	path = Sources/cotire
-	url = git@github.com:Knitschi/cotire.git
+	url = https://github.com/Knitschi/cotire.git
