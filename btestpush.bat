@@ -1,5 +1,5 @@
 
-pushd Sources\APackage
+pushd Sources\BPackage
 
 echo namespace{} >> b.cpp
 git commit . -m"dummy edit"
@@ -11,8 +11,3 @@ git commit . -m"dummy edit"
 git push
 
 popd
-
-::git commit . -m"update APackage"
-::git push origin refs/notes/* refs/heads/master refs/tags/*
-
-::git notes append -m "dontTr1gger"
