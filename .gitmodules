@@ -9,6 +9,7 @@
 [submodule "Sources/BPackage"]
 	path = Sources/BPackage
 	url = ssh://admin@datenbunker:/share/GitRepositories/BPackage.git
+	branch = master
 [submodule "Sources/CIBuildConfigurations"]
 	path = Sources/CIBuildConfigurations
 	url = ssh://admin@datenbunker:/share/GitRepositories/CIBuildConfigurations.git
