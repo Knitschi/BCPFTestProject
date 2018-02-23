@@ -1,15 +1,20 @@
 [submodule "Sources/CPFCMake"]
 	path = Sources/CPFCMake
 	url = ssh://admin@datenbunker:/share/GitRepositories/CPFCMake.git
+	branch = master
 [submodule "Sources/CPFBuildscripts"]
 	path = Sources/CPFBuildscripts
 	url = ssh://admin@datenbunker:/share/GitRepositories/CPFBuildscripts.git
+	branch = master
 [submodule "Sources/BPackage"]
 	path = Sources/BPackage
 	url = ssh://admin@datenbunker:/share/GitRepositories/BPackage.git
+	branch = master
 [submodule "Sources/CIBuildConfigurations"]
 	path = Sources/CIBuildConfigurations
 	url = ssh://admin@datenbunker:/share/GitRepositories/CIBuildConfigurations.git
+	branch = master
 [submodule "Sources/cotire"]
 	path = Sources/cotire
 	url = https://github.com/Knitschi/cotire.git
+	branch = master
