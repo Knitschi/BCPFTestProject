@@ -1,11 +1,13 @@
 
 pushd Sources\BPackage
 
-echo namespace{} >> b.cpp
+git pull
+
+echo namespace{} >> b.h
 git commit . -m"dummy edit"
-echo namespace{} >> b.cpp
+echo namespace{} >> b.h
 git commit . -m"dummy edit"
-echo namespace{} >> b.cpp
+echo namespace{} >> b.h
 git commit . -m"dummy edit"
 
 git push
