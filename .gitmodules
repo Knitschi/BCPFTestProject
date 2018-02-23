@@ -18,3 +18,9 @@
 	path = Sources/cotire
 	url = https://github.com/Knitschi/cotire.git
 	branch = master
+[submodule "Sources/FPackage"]
+	path = Sources/FPackage
+	url = ssh://admin@datenbunker:/share/GitRepositories/FPackage.git
+[submodule "Sources/GPackage"]
+	path = Sources/GPackage
+	url = ssh://admin@datenbunker:/share/GitRepositories/GPackage.git
