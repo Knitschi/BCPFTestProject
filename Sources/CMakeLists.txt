@@ -18,7 +18,7 @@ set( externalPackages
 )
 
 set( globalFiles
-	
+	documentation/BCPFTestProjectDoc.dox
 )
 
 cpfAddPackages( "${externalPackages}" "${globalFiles}")
