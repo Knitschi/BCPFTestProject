@@ -1,5 +1,10 @@
 # Welcome to BCPFTestProject #
 
-This is an example project that uses the [CMakeProjectFramework](https://github.com/Knitschi/CMakeProjectFramework).
+The project owns some C++ packages that are used as external packages in the <a href="https://github.com/Knitschi/ACPFTestProject"><b>ACPFTestProject</b></a>.
+The packages only contain *Hello world* functionality.
 
-For more information about this example read the [project documentation](https://knitschi.github.io/BCPFTestProject/doxygen/index.html).
+The packages are:
+
+- BPackage (A *loose* C++ library package)
+- FPackage (A *loose* C++ library package)
+- GPackage (A *loose* C++ library package)
