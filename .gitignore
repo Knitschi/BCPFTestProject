@@ -2,6 +2,7 @@ Generated/**
 Generated
 Configuration/**
 Configuration
+Sources/*/cpfPackageVersion_*.cmake
 .vscode/
 1_Configure.py
 2_Generate.py
