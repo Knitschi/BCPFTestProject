@@ -8,3 +8,6 @@ Sources/*/cpfPackageVersion_*.cmake
 2_Generate.py
 3_Make.py
 /install
+/3_Generate.py
+/4_Make.py
+/2_GetDependencies.py
