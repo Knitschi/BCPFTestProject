@@ -4,5 +4,4 @@ set( CPF_PACKAGES
     EXTERNAL CPFBuildscripts
     OWNED BPackage
     OWNED FPackage
-    OWNED GPackage
 )
