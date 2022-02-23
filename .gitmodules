@@ -18,10 +18,6 @@
 	path = Sources/FPackage
 	url = https://github.com/Knitschi/FPackage.git
 	branch = master
-[submodule "Sources/GPackage"]
-	path = Sources/GPackage
-	url = https://github.com/Knitschi/GPackage.git
-	branch = master
 [submodule "Sources/CIBuildConfigurations"]
 	path = Sources/CIBuildConfigurations
 	url = https://github.com/Knitschi/CIBuildConfigurations.git
