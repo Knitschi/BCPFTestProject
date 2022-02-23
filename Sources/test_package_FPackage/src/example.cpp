@@ -1,7 +1,9 @@
-#include <GPackage/function.h>
+#include <Component1/function.h>
+#include <Component2/function.h>
 
 int main() 
 {
-    g::function();
+    comp1::function();
+    comp2::function();
     return 0;
 }

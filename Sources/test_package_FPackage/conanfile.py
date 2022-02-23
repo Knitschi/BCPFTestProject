@@ -13,7 +13,7 @@ class GPackageTest(ConanFile):
         self.cpf_conanfile_module.init_impl(
             self,
             self.cpf_conanfile_module.CPFBasePackageTestConanfile,
-            "GPackage")
+            "FPackage")
 
 
 

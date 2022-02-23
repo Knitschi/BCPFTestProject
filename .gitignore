@@ -11,3 +11,9 @@ Sources/*/cpfPackageVersion_*.cmake
 /3_Generate.py
 /4_Make.py
 /2_GetDependencies.py
+/Sources/test_package_FPackage/conan.lock
+/Sources/test_package_FPackage/conanbuildinfo.cmake
+/Sources/test_package_FPackage/conanbuildinfo.txt
+/Sources/test_package_FPackage/conaninfo.txt
+/Sources/test_package_FPackage/graph_info.json
+/Sources/test_package_FPackage/build
