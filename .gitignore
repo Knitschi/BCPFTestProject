@@ -17,3 +17,5 @@ Sources/*/cpfPackageVersion_*.cmake
 /Sources/test_package_FPackage/conaninfo.txt
 /Sources/test_package_FPackage/graph_info.json
 /Sources/test_package_FPackage/build
+/Sources/test_package_FPackage/cmake-build-debug
+
